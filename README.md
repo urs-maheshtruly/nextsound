@@ -174,4 +174,4 @@ npm run preview
   <p>Discover your next favorite track with NextSound</p>
 </div>
 
-leraning git was fun
+leraning git was fun -- yes.
