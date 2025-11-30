@@ -174,4 +174,4 @@ npm run preview
   <p>Discover your next favorite track with NextSound</p>
 </div>
 
-it great to learn.
+leraning git was fun
